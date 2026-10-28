@@ -1,4 +1,4 @@
-let temperature=27;
+let temperature=2;
 if(temperature<=0){
     console.log("Very cold")
 }else if(temperature<15){
